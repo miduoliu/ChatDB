@@ -24,14 +24,8 @@
 ---
 
 ## **Project Structure**
-
-ChatDB/
-├── db_connection.py 
-├── db_operation.py 
-├── query_generator.py 
-├── nlp_usage.py  
-├── main.py 
-└── README.md
+# File Structure
+ChatDB/ ├── db_connection.py # Handles MySQL database connection ├── db_operation.py # Contains CRUD operations and utility functions ├── query_generator.py # Generates SQL queries for different operations ├── nlp_usage.py # Handles natural language processing and query generation ├── main.py # Main entry point for the ChatDB CLI application └── README.md # Project documentation
 
 ---
 
