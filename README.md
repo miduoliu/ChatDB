@@ -24,14 +24,14 @@
 ---
 
 ## **Project Structure**
+```
 ChatDB/
 ├── db_connection.py 
 ├── db_operation.py 
 ├── query_generator.py 
 ├── nlp_usage.py  
-├── main.py 
-└── README.md
-
+└── main.py 
+```
 ---
 
 
